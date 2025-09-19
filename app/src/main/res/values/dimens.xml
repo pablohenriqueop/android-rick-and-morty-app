@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_md">17sp</dimen>
+    <dimen name="top_space_md">24dp</dimen>
+    <dimen name="full_radius">99dp</dimen>
+    <dimen name="padding_y_md">16dp</dimen>
+</resources>
