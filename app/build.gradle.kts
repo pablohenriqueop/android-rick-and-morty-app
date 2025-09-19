@@ -7,6 +7,9 @@ android {
     namespace = "dev.pablohenrique"
     compileSdk = 36
 
+    buildFeatures {
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "dev.pablohenrique"
         minSdk = 24

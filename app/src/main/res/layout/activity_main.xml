@@ -43,6 +43,7 @@
             />
 
         <com.google.android.material.button.MaterialButton
+            android:id="@+id/charactersButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/home_first_button"
@@ -54,6 +55,7 @@
             />
 
         <com.google.android.material.button.MaterialButton
+            android:id="@+id/placesButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/home_second_button"
